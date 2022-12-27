@@ -1,14 +1,15 @@
-## Nice to meet you! I'm [Victor](https://github.com/vs2961/)!
+## Nice to meet you! I'm Thuan!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/victorsiuwastaken)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thuan-do-ucsd/)
+### Add website please
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 
 I'm a computer science major at UCSD who's always willing to learn and work with new technologies! It's my dream to one day to use my knowledge to solve real-life problems.
 
 ### Some things about me:
 
-- &nbsp; My favorite programming language is Python, but I'm also proficient <br/> with web development, particularly React.js.
-- &nbsp; Many of my projects are available on [Github](https://github.com/vs2961).
+- &nbsp; My favorite programming language is Python, but I'm also proficient with web development, particularly React.js.
+- &nbsp; Many of my projects are available here on Github! Scroll down to see some of the ones I'm the most proud of.
 - &nbsp; Fun fact: typing `import this` in Python will print a fun poem about the zen of Python.
 - &nbsp; Check out my resume [here](https://vs2961.github.io/resume/Resume%20-%20Victor%20Siu.pdf).
 
@@ -28,15 +29,15 @@ I'm a computer science major at UCSD who's always willing to learn and work with
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vs2961&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs2961&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=floatboat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floatboat&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vs2961&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=floatboat&hide_border=true" />
 </details>
 
 </div>
