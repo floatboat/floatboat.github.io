@@ -1,24 +1,24 @@
 {
   "main": {
-    "name":"Victor",
+    "name":"Thuan",
     "occupation":"Software Engineer",
     "description":"I do some coding here and there, and am flexible with many different languanges!",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "vsiu20@gmail.com",
-    "phone": "555-555-5555",
-    "website": "http://www.vs2961.github.io",
+    "email": "thuan.do2003@yahoo.com",
+    "phone": "858-212-1646",
+    "website": "https://floatboat.github.io/",
     "resumedownload":"https://vs2961.github.io/resume/Resume%20-%20Victor%20Siu.pdf",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/victorsiuwastaken/",
+        "url":"https://www.linkedin.com/in/thuan-do-ucsd/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/vs2961",
+        "url":"https://github.com/floatboat",
         "className":"fa fa-github"
       }
     ]
@@ -34,7 +34,7 @@
         "description":""
       },
       {
-        "school":"Stuyvesant High School",
+        "school":"Rancho Bernardo High School High School",
         "degree":"N/A",
         "graduated":"September 2017 - June 2021",
         "description":""
